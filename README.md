@@ -9,6 +9,7 @@
   </picture>
 </p>
 # 💫 About Me:
+
 👨‍💻 I'm currently working on  <br>Building real, usable skills at the intersection of tech, design, and AI — not just projects that look cool, but ones that actually solve something.<br><br>🤝 I'm looking to collaborate on  <br>Early-stage ideas, side projects, or experiments where execution matters more than talk — preferably with people who ship, not just brainstorm.<br><br>🆘 I'm looking for help with  <br>Staying consistent long-term, turning scattered interests into one clear direction, and learning how to build systems instead of relying on motivation.<br><br>🌱 I'm currently learning  <br>AI fundamentals, practical development workflows, and how to think like a builder instead of a student chasing grades.<br><br>💬 Ask me about  <br>AI concepts, beginner-to-intermediate tech ideas, design aesthetics, or how to overthink something simple and still learn from it.<br><br>⚡ Fun fact  <br>I’m more self-aware than disciplined — which means I know exactly what I should be doing… and I’m actively working on actually doing it.<br>
 
 
